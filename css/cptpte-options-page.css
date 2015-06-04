@@ -1,0 +1,31 @@
+.cptpt-list td {
+	padding: 15px;
+}
+
+.cptpt-list td label {
+	display: inline-block; /* add this */
+    padding-left: 10px;
+}
+
+.cptpt-list tr:nth-child(odd) {background: #f9f9f9}
+
+
+.active
+{
+	border-left: 4px solid #2ea2cc;
+}
+
+.cptpte-main {
+    margin-right: 300px;
+    display: table;
+}
+
+.cptpte-side {
+    width: 281px;
+    margin-top: 85px !important;
+    float: right;
+}
+
+tbody tr:nth-child(odd) {
+    background: #f9f9f9
+}
